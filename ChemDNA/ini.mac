@@ -1,0 +1,7 @@
+/control/verbose 2
+/run/verbose 2
+/run/initialize
+/scheduler/verbose 1
+#/scheduler/endTime 1 microsecond
+#/control/execute vis.mac
+/run/beamOn 10
